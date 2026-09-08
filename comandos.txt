@@ -1,0 +1,3 @@
+chmod 744 calculador.sh
+ls -l calculadora.sh
+./calculadora.sh
